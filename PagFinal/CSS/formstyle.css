@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 10;
+    box-sizing: border-box;
+}
+
+header{
+
+    background: rgb(216, 216, 216);
+    height: 60px;
+    font-size: 18px;
+    font-family: fantasy;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+#form{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    align-items: center;
+    border-radius: 4px;
+    border: 0px solid black;
+    padding: 10px;
+    margin-left: 750px;
+    margin-right: 750px;
+    background-color: rgb(249, 199, 194);
+}
